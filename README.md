@@ -1,5 +1,5 @@
 ### Привет, меня зовут Давид! 👋
-Работаю с данными
+
 <!--
 ### Мои проекты:
 - [<название>](<ссылка>) - Анализ данных SpaceX
@@ -8,7 +8,7 @@
 ### Cтек технологий с которым я работаю или работал
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![Apache NiFi](https://img.shields.io/badge/-Apache-NiFi-D22128?logo=apache-nifi&logoColor=white)
+![Apache NiFi](https://img.shields.io/badge/-Apache%20NiFi-D22128%3Flogo%3Dapache%26logoColor%3Dwhite)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/-DataGrip-000000?logo=datagrip&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
