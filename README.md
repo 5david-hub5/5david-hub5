@@ -3,7 +3,7 @@
 
 ### Мои проекты:
 - [ETL-articles](https://github.com/5david-hub5/ETL-articles/tree/main) - ETL-pipeline
-- В разработке...
+- [Star schema](https://github.com/5david-hub5/model-star) - Схема звезда
 
 ***
 ### Cтек технологий с которым я работаю или работал
