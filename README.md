@@ -18,4 +18,3 @@
 ***
 ### Мои контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/David_Agababyan5)
-[![VK](https://img.shields.io/badge/-VK-1E90FF?style=flat&logo=vk&logoColor=white)](https://vk.com/david_sduk)
