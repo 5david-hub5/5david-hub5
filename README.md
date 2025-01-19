@@ -5,7 +5,8 @@
 - [ETL-articles](https://github.com/5david-hub5/ETL-articles/tree/main) - ETL-pipeline
 - [Star schema](https://github.com/5david-hub5/model-star) - Модель звезда
 - [Snowflake schema](https://github.com/5david-hub5/model-snowflake) - Модель снежинка
-- [Data vault](https://github.com/5david-hub5/model-data-vault) - Модель data vault
+- [Data vault](https://github.com/5david-hub5/model-data-vault) - Проектирование по Data Vault
+- [Anchor modeling](https://github.com/5david-hub5/model-anchor) - Подход Anchor modeling
 
 ***
 ### Cтек технологий с которым я работаю или работал
