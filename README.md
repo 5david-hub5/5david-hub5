@@ -4,6 +4,7 @@
 ### Мои проекты:
 - [ETL-articles](https://github.com/5david-hub5/ETL-articles/tree/main) - ETL-pipeline
 - [Star schema](https://github.com/5david-hub5/model-star) - Схема звезда
+- [Snowflake schema](https://github.com/5david-hub5/model-snowflake) - Схема снежинка
 
 ***
 ### Cтек технологий с которым я работаю или работал
